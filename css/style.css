@@ -12,6 +12,19 @@ html {
     border: 3px;
     margin:5px;  
 }
+.video{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video iframe{
+    left:0;
+    top:0;
+    height:60%;
+    width:80%;
+    position:absolute;
+}
 body {
     /* Background */
     background-image:url(../background.jpg);
