@@ -63,3 +63,19 @@ h6, h4, h5{
     margin:5px;
     width:fit-content;
 }
+.txt2{
+    position: flex;
+    color: white; 
+    background: rgba(204, 204, 204, 0.2);
+    padding: 5px;
+    margin:5px;
+    width:50%;
+}
+.txt3{
+    position: flex;
+    color: white; 
+    background: rgba(204, 204, 204, 0.2);
+    padding: 5px;
+    margin:5px;
+    width:fit-content;
+}
